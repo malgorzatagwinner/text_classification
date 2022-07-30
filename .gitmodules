@@ -1,0 +1,3 @@
+[submodule "pystyl"]
+	path = pystyl
+	url = https://github.com/malgorzatagwinner/pystyl
